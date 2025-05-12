@@ -1,0 +1,11 @@
+.\gps.o: gps.c
+.\gps.o: tm4c123gh6pm.h
+.\gps.o: gps.h
+.\gps.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+.\gps.o: uart5.h
+.\gps.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+.\gps.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+.\gps.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+.\gps.o: globalVariables.h
+.\gps.o: systick.h
+.\gps.o: UART0.h
