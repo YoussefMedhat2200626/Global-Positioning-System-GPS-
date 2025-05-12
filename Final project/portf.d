@@ -1,1 +1,0 @@
-.\portf.o: portf.c
